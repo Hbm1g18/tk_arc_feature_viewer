@@ -11,7 +11,7 @@ password = ""
 
 gis = GIS(username=username, password=password)
 
-FeatureLayerID = "14718ae8c8d846bcb857bad1b8570352"
+FeatureLayerID = ""
 
 print(f"Connected as {username}")
 
